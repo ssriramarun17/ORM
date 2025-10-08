@@ -48,7 +48,8 @@ admin.site.register(Car,CarAdmin)
 
 ## OUTPUT
 
-<img width="1051" height="598" alt="Screenshot 2025-10-07 155628" src="https://github.com/user-attachments/assets/e97edbf8-0bee-49ef-9bc6-fd4407001ad5" />
+<img width="1029" height="524" alt="Screenshot 2025-10-08 103650" src="https://github.com/user-attachments/assets/2e96c252-c6a7-4b6b-bd58-24cd2fdda15a" />
+
 
 
 
