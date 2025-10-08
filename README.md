@@ -1,5 +1,7 @@
 # Ex02 Django ORM Web Application
-## Date: 05.10.2025
+## Date: 08.10.2025
+## NAME: SRIRAM ARUN S
+## REGISTER NO: 25016000
 
 ## AIM
 To develop a Django application to store and retrieve data from a Car Inventory Database using Object Relational Mapping(ORM).
